@@ -1,5 +1,8 @@
 _repo: He-Knew-He-Was-Right_5140
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Trollope, Anthony
@@ -16,6 +19,8 @@ description: The central theme of the novel is the sexual jealousy of Louis Trev
   Trevelyans' marriage, a lively cast of characters explore the ideas of female emancipation
   and how to distinguish between obedience and subjection. Although himself no supporter
   of women's ri.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5140#He-Knew-He-Was-Right
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
